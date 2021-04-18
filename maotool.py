@@ -1,7 +1,7 @@
 #!/bin/python
 #Coder MD Ekramul Hassan 
 #GitHub : htpps://github.com/normaluserxd
-#FB ID:  https://www.facebook.com/nihon2007
+#FB ID:  https://www.facebook.com/ta.ke.lo.ve.umm.ah
 import os
 try:
   from termcolor import *
